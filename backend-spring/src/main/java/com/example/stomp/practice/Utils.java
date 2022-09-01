@@ -1,5 +1,6 @@
-package com.example.stomp;
+package com.example.stomp.practice;
 
+import com.example.stomp.domain.message.Message;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
